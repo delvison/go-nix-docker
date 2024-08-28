@@ -1,0 +1,4 @@
+result/
+Dockerfile.nix
+justfile
+.git
